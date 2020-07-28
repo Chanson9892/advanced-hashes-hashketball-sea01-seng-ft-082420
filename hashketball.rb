@@ -159,5 +159,4 @@ def team_names
   game_hash.collect do |team, team_data|
     team_data[:team_name]
   end
-  binding.pry
 end
