@@ -161,4 +161,3 @@ def team_names
   end
   binding.pry
 end
-
