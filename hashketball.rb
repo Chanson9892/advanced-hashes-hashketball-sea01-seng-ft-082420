@@ -157,7 +157,7 @@ end
 
 def team_names
   game_hash.each do |team, team_data|
-    if team_data[:team_name]
+    if team_data == :team_name
     return team_data[:team_name]
   end
 end
