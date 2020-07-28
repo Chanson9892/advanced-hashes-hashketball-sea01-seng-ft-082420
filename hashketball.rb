@@ -160,6 +160,6 @@ def team_names
     teams = []
     if team_data == :team_name
     teams << team_data[:team_name]
-  end
+    end
   end
 end
