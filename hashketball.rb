@@ -200,5 +200,5 @@ def big_shoe_rebounds
       end
     end
   end
-  player_stats
+  num_rebounds
 end
